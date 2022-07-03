@@ -1,0 +1,91 @@
+
+  [
+    {
+      "id": "1",
+      "name": "AlaDeen Gold Bar",
+      "weight": ".01g",
+      "image": "assets/img/product/GoldBar/0.25g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "2",
+      "name": "AAlaDeen Gold Bar",
+      "weight": "0.5g",
+      "image": "assets/img/product/GoldBar/0.5.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "3",
+      "name": "AlaDeen Gold Bar",
+      "weight": "1g",
+      "image": "assets/img/product/GoldBar/1g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "4",
+      "name": "AlaDeen Gold Bar",
+      "weight": "5g",
+      "image": "assets/img/product/GoldBar/5g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "5",
+      "name": "AlaDeen Gold Bar",
+      "weight": "10g",
+      "image": "assets/img/product/GoldBar/10g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "6",
+      "name": "AlaDeen Gold Bar",
+      "weight": "20g",
+      "image": "assets/img/product/GoldBar/20g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "7",
+      "name": "AlaDeen Gold Bar",
+      "weight": "50g",
+      "image": "assets/img/product/GoldBar/50g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "8",
+      "name": "AlaDeen Gold Bar",
+      "weight": "100g",
+      "image": "assets/img/product/GoldBar/100g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+    {
+      "id": "9",
+      "name": "AlaDeen Gold Bar",
+      "weight": "200g",
+      "image": "assets/img/product/GoldBar/200g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+     {
+      "id": "9",
+      "name": "AlaDeen Gold Bar",
+      "weight": "500g",
+      "image": "assets/img/product/GoldBar/500g.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    },
+     {
+      "id": "9",
+      "name": "AlaDeen Gold Bar",
+      "weight": "1kg",
+      "image": "assets/img/product/GoldBar/1kg.png",
+      "url": "/Our Strategy Create Business Growth",
+      "button": "view"
+    }
+  ]
