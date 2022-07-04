@@ -50,7 +50,7 @@ class ProjectSlider extends Component {
                 >
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-1.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brand/GA-Skylight-Banner-1.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Graphic</span>
@@ -65,7 +65,7 @@ class ProjectSlider extends Component {
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-2.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brand/logo-2.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Web Design</span>
@@ -80,7 +80,7 @@ class ProjectSlider extends Component {
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-3.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brand/Awaris-1.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Web Development</span>
@@ -95,7 +95,7 @@ class ProjectSlider extends Component {
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-4.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brand/FPX-f-1.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Networking</span>
@@ -110,7 +110,7 @@ class ProjectSlider extends Component {
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-1.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brand/MGA-011.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Graphic</span>
@@ -125,7 +125,7 @@ class ProjectSlider extends Component {
 
                     <SwiperSlide>
                         <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-2.jpg" className="img-fluid" alt="project_img"/>
+                            <img src="assets/img/brnd/Marnti-logo2.webp" className="img-fluid" alt="project_img"/>
                             <div className="kproject-text">
                                 <div className="kproject-text-content">
                                     <span>Web Design</span>
@@ -138,20 +138,6 @@ class ProjectSlider extends Component {
                         </div>
                     </SwiperSlide>
 
-                    <SwiperSlide>
-                        <div className="kproject swiper-slide">
-                            <img src="assets/img/project/project-img-3.jpg" className="img-fluid" alt="project_img"/>
-                            <div className="kproject-text">
-                                <div className="kproject-text-content">
-                                    <span>Web Devolopment</span>
-                                    <h5 className="kproject-text-title"><Link href="/project-details"><a>Fimlor Experience</a></Link></h5>
-                                </div>
-                                <div className="kproject-text-icon">
-                                    <Link href="/project-details"><a><i><FontAwesomeIcon icon={['fas', 'long-arrow-alt-right']} /></i></a></Link>
-                                </div>
-                            </div>
-                        </div>
-                    </SwiperSlide>
                 </Swiper>
                 </div>
             </div>

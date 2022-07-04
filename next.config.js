@@ -4,3 +4,18 @@ module.exports = withImages({
         return config
     }
 });
+module.exports = {
+    async headers() {
+      return [
+        {
+          source: "/fonts/Serpentine-MediumOblique.woff2",
+          headers: [
+            {
+              key: "Cache-Control",
+              value: "public, max-age=31536000, immutable",
+            },
+          ],
+        },
+      ];
+    },
+  };

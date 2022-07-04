@@ -1,16 +1,17 @@
 import React, { Component } from 'react';
 import Breadcrumb from '../Common/Breadcrumb';
-import ProductTabTwo from '../Elements/Tab/ProjectTabTwo';
+import ProductTabTwo from '../Elements/Tab/ProductTabTwo';
 
 
-class ProductGoldTabMain extends Component {
+
+class ProductGoldMain extends Component {
 
     render() {
 
         return (
             <main>
                 {/* breadcrumb-start */}
-				<Breadcrumb pageTitle="Projects" />
+				<Breadcrumb pageTitle="Products" />
 				{/* breadcrumb-end */}
 
                 {/* service-start */}
@@ -22,4 +23,4 @@ class ProductGoldTabMain extends Component {
     }
 }
 
-export default ProductGoldTabMain;
+export default ProductGoldMain;

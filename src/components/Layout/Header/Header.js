@@ -38,6 +38,13 @@ const Header = () => {
          <title>Al Ebreiz Global Capital Berhad | The Future of Islamic Hyebrid Finance</title>
             <link rel="shortcut icon" href="assets/img/logo/favicon.ico" /> 
             <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
+            <link
+            rel="Serpentine"
+            href="../fonts/Serpentine-MediumOblique.woff2"
+            as="font"
+            type="font/woff2"
+            crossOrigin="anonymous"
+          />
          </Head>
          <header>
             <div className="transparent-header">

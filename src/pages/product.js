@@ -1,7 +1,8 @@
 import React from 'react';
 import Header from '../components/Layout/Header/Header';
 import Footer from '../components/Layout/Footer/Footer';
-import ProductGoldMain from '../components/Blog/ProductGoldMain';
+import ProductGoldMain from '../components/Project/ProductGoldMain';
+
 
 class ProductPage extends React.Component {
 
