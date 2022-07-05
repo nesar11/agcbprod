@@ -16,9 +16,9 @@ body {
   }
 }
 @font-face {
-  font-family: 'Serpentine';
-  src: url('../fonts/Serpentine-MediumOblique.woff2') format('woff2'),
-      url('../fonts/Serpentine-MediumOblique.woff') format('woff');
+  font-family: 'Serpentine-MediumOblique';
+  src: url('./../fonts/Serpentine-MediumOblique.ttf');
+  src: url('./../fonts/Serpentine_ICG_Bold.ttf');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -79,7 +79,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $body-fonts;
+  font-family: Serpentine-MediumOblique;
   color: $heading-color;
   font-weight: 700;
   margin-bottom: 10px;
